@@ -26,9 +26,9 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZERO SESSION HERE",
+SESSION_ID: process.env.SESSION_ID || "eJAw2DhD#OpkmKQQM2jmEW59KZWcyzVp7OIYOsKBHEU8dFcmBkxQ",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
-OWNER_NUMBER: process.env.OWNER_NUMBER || "242067274660",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233539339100",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
